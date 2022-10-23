@@ -74,3 +74,4 @@ group :test do
 end
 gem 'dotenv-rails'
 gem 'rollbar'
+gem 'haml-rails'
